@@ -1,0 +1,51 @@
+body {
+            font-family: Arial;
+            background-color: #f4f4f4;
+        }
+
+        .container {
+            width: 70%;
+            margin: auto;
+            background: white;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            background: #333;
+            color: white;
+            padding: 10px;
+        }
+
+        .student-info {
+            margin: 20px 0;
+            padding: 10px;
+            background: #eee;
+        }
+
+        .subjects {
+            margin: 20px 0;
+        }
+
+        .subjects ul {
+            list-style-type: square;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        table, th, td {
+            border: 1px solid black;
+        }
+
+        th {
+            background: #333;
+            color: white;
+        }
+
+        td, th {
+            padding: 10px;
+            text-align: center;
+        }
